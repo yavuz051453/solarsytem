@@ -5,7 +5,7 @@ public class Main {
         SolarSystem inception =new SolarSystem();
         inception.sun=1;
         inception.moon=4;
-        inception.planets=20;
+        inception.planets=25;
 
         System.out.println("the basic structure is ready");
 

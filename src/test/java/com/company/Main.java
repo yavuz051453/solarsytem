@@ -10,6 +10,13 @@ public class Main {
         System.out.println("the basic structure is ready");
 
 
+    //developing the feature SUN
+    SUN omaro = new SUN();
+    omaro.temperature="5131532";
+    omaro.name="feroo";
+    omaro.radius="442";
+    omaro.color="blue";
+
     }
 }
 
